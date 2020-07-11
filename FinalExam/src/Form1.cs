@@ -35,7 +35,7 @@ namespace FinalExam
 
         private void getResultForFirstPage(double x, double y)
         {
-            if(y <= 4 * x && y <= -4 * x && y >= x * x - 5 * x)
+            if(y <= 4 * x && y <= -4 * x && y >= x * x - 5)
             {
                 label4.Visible = true;
                 label4.Text = "принадлежит";
