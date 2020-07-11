@@ -113,7 +113,7 @@ namespace FinalExam
         private void информацияToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                 "Аюбджанов Егор Вариант 1",
+                 "Аюбджанов Егор Вариант 6",
                   "Сообщение",
                 MessageBoxButtons.OKCancel,
                 MessageBoxIcon.Information,
